@@ -1,4 +1,4 @@
-# credit-group-admin-ngjs
+# CrediGroupAdmin-ngjs
 
 Feasibility study for a credit group admin panel.
 
