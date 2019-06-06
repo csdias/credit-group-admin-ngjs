@@ -1,0 +1,15 @@
+.item {
+    float: left;
+    padding: 20px;
+    margin:3px;
+    width: 40px;
+    background-color: green;
+}
+
+.botao-laranja {
+    background-color: orange;
+}
+
+.botao-azul {
+    background-color: blue;
+}
